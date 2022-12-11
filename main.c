@@ -1,8 +1,8 @@
 #include "setup.h"
 
 /********************************************************************************
-* main: Program innehållande tre lysdioder och en tryckknapp. Vid knapptryck så 
-		startas en blink slinga. Vid nästa 
+* main: Program innehÃ¥llande tre lysdioder och en tryckknapp. Vid knapptryck sÃ¥ 
+		startas en blink slinga. Vid nÃ¤sta tryck stÃ¤ngs den av.
 ********************************************************************************/
 int main(void)
 {
